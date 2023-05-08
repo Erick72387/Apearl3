@@ -1,2 +1,2 @@
-# monericksimangan
+# monerick
 Name of owner
